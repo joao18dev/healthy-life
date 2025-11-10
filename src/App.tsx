@@ -1,14 +1,13 @@
-import './App.css'
+import Home from "./pages/Home/Home"
+
 
 const App = () => {
 
   return (
     
-
-    <div>
-      <h1>Olá, Mundo!</h1>
-    </div>
-    
+    <>
+      <Home />
+    </>
     
   )
 }
